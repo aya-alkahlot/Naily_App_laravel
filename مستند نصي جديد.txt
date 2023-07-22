@@ -1,0 +1,10 @@
+http://localhost:8000/api/users
+
+
+#################api contact us######################
+http://127.0.0.1:8000/api/contact/create
+http://127.0.0.1:8000/api/contact/edit/3
+http://127.0.0.1:8000/api/contact/delete/10
+http://127.0.0.1:8000/api/contact/list
+http://127.0.0.1:8000/api/contact/list?page=8
+#################end api contact us######################
